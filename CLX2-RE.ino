@@ -1,5 +1,5 @@
 /*
-**Programme Test CLX2-433-19 Action Recepteur
+**Programme Test CLX2-433-19 
 **SmarTracker
 **Anass Ouadif
 */
